@@ -1,4 +1,23 @@
-# Hi there 👋✌️
-I am a beginner python developer 🐍
-### 🌊 Someday it will be beautiful here 🌊
-![4cd6eaa599851725aa5a195d162fb20d](https://user-images.githubusercontent.com/101815873/165318356-10e4e991-298c-472b-a78d-931728541b3f.gif)
+<div id="header" align="center">
+  <h1>Hi there, I'm Ivan</h1>
+</div>
+
+### Languages and tools
+
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="python" width="50" height="50"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="django" width="50" height="50"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="postgresql" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" title="bash" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="docker" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="nginx" width="50" height="50"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" title="ubuntu" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" title="heroku" width="50" height="50"/>&nbsp;
+
+### My stat
+
+<div id="stat" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clownvkkaschenko&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clownvkkaschenko&theme=moonlight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=clownvkkaschenko&theme=moonlight"/>
+</div>
