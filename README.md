@@ -8,11 +8,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="django" width="50" height="50"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="postgresql" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" title="bash" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="docker" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="nginx" width="50" height="50"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" title="ubuntu" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" title="heroku" width="50" height="50"/>&nbsp;
 
 ### My stat
 
