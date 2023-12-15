@@ -1,7 +1,5 @@
 <div id="header" align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Castoro+Titling&weight=654&height=55&size=30&duration=3500&pause=1000&color=B710C7&repeat=true&random=true&&lines=Hi+there%2C+I'm+Ivan+😼" alt="Typing SVG" />
-  </a>
+  <h1>Hi there, I'm Ivan 😼</h1>
 </div>
 
 <h3>Languages and tools</h3>
