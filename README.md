@@ -4,13 +4,13 @@
 </div>
 
 <h3>Languages and tools</h3>
-<img height="50" width="50" src="https://cdn.simpleicons.org/python/1d3cf0" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/django/1d3cf0" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/fastapi/1d3cf0" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/postgresql/1d3cf0" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/nginx/1d3cf0" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/git/1d3cf0" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/docker/1d3cf0" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/python/1d3cf0" />&nbsp;
+<img height="50" width="50" src="https://cdn.simpleicons.org/django/1d3cf0" />&nbsp;
+<img height="50" width="50" src="https://cdn.simpleicons.org/fastapi/1d3cf0" />&nbsp;
+<img height="50" width="50" src="https://cdn.simpleicons.org/postgresql/1d3cf0" />&nbsp;
+<img height="50" width="50" src="https://cdn.simpleicons.org/nginx/1d3cf0" />&nbsp;
+<img height="50" width="50" src="https://cdn.simpleicons.org/git/1d3cf0" />&nbsp;
+<img height="50" width="50" src="https://cdn.simpleicons.org/docker/1d3cf0" />&nbsp;
 
 <h3>My stat</h3>
 <div id="stat" align="center">
