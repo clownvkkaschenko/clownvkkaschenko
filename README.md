@@ -1,26 +1,16 @@
 <div id="header" align="center">
-  <h1>Hi there, I'm Ivan</h1>
-  <p>in the flow 🌊</p>
-</div>
+  <h1>Hello, friend. Hello, friend? That's lame.</h1>
 
-<h3>Languages and tools</h3>
-<div style="display: flex;">
-  <img height="50" width="50" src="https://cdn.simpleicons.org/python/1d3cf0" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/django/1d3cf0" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/fastapi/1d3cf0" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/postgresql/1d3cf0" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/nginx/1d3cf0" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/git/1d3cf0" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/docker/1d3cf0" />
-</div>
+  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+  ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+  ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+  ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
-<h3>My stat</h3>
-<div id="stat" align="center">
-
-  [![codewars](https://www.codewars.com/users/clownvkkaschenko/badges/large)](https://www.codewars.com/users/clownvkkaschenko)
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clownvkkaschenko&theme=github_dark"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=clownvkkaschenko&theme=github_dark&utcOffset=5"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=clownvkkaschenko&theme=github_dark"/>
+  ![](https://i.pinimg.com/originals/9e/e6/41/9ee641ce331ab4fb6a1b73f52b5f467b.gif)
 
 </div>
