@@ -11,6 +11,6 @@
   ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
   ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
-  <img src="https://i.pinimg.com/originals/9e/e6/41/9ee641ce331ab4fb6a1b73f52b5f467b.gif" alt="DeadlineGif" autoplay>
+  ![](https://camo.githubusercontent.com/dee21d3a1b716d8725802af1bdb151e2f914ad2bc07667a2e488605fcde944b7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f65362f34312f39656536343163653333316162346662366131623733663532623566343637622e676966)
 
 </div>
